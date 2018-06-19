@@ -1,0 +1,23 @@
+{
+  "name": "authentication_linking",
+  "version": "1.0.0",
+  "description": "Simple role System app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Iris-adv",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.4",
+    "ejs": "2.6.1",
+    "mongoose": "^4.10.2",
+    "passport": "0.4.0",
+    "passport-local": "1.0.0",
+    "passport-facebook": "2.1.1",
+    "passport-twitter": "1.0.4",
+    "passport-google-oauth": "1.0.0",
+    "connect-flash": "0.1.1",
+    "bcrypt-nodejs": "0.0.3"
+  }
+}
