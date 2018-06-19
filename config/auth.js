@@ -4,8 +4,8 @@
 module.exports = {
 
 	'facebookAuth' : {
-		'clientID' 		: '1739975719426934', // your App ID
-		'clientSecret' 	: '21c3de196beaa795915ec061574a3b70', // your App Secret
+		'clientID' 		: '601724253537943', // your App ID
+		'clientSecret' 	: '82eb78f4a6fe50939eafdf9e9504bb68', // your App Secret
 		'callbackURL' 	: 'https://nodeauthentication.azurewebsites.net/auth/facebook/callback'
 	},
 
